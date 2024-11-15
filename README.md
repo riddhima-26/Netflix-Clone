@@ -9,6 +9,7 @@ The website is a Netflix Clone that replicates the basic features of the website
 - JavaScript
 
 ## Installation And Setup
+```bash
 1. **Clone the repository**
 git clone https://github.com/riddhima-26/Neflix-Clone.git
 2. cd Netflix-Clone
